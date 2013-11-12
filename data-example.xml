@@ -1,0 +1,20 @@
+<entities>
+	<entity category="car" sku='XFV001'>
+		<attribute name="type" value="used" />
+		<attribute name="make" value="mitsubishi" />
+		<attribute name="model" value="lancer" />
+		<attribute name="color" value="black" />
+		<attribute name="year" value="2011" />
+	</entity>
+	<entity category="car" sku='XFV002'>
+		<attribute name="type" value="used" />
+		<attribute name="make" value="volvo" />
+		<attribute name="model" value="V50" />
+		<attribute name="color" value="grey" />
+		<attribute name="year" value="2011" />
+	</entity>
+	<entity category="car" sku='XFV003'>
+		<attribute name="type" value="new" />
+		<attribute name="make" value="ferrari" />
+	</entity>
+</entities>
